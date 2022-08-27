@@ -16,11 +16,18 @@ feature1()
 {
   //Sample Code for Feature 1
 }
-
-
 feature1 Security()
 {
- //Sample Code for Feature 1
+ //Sample Code for Feature 11
+}
+
+feature2()
+{
+ //Sample Code for Feature 2
+}
+feature2 Security()
+{
+ //Sample Code for feature 2
 }
 
 }
